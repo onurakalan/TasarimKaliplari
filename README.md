@@ -1,2 +1,2 @@
 # TasarimKaliplari
-Youtube kanalımda yayınladığım tasarım kalıpları derslerinin kaynak kodlarıdır.
+Sadık Bahadır Memiş'in anlattığı kodların abap versiyonlarını deniyorum.
